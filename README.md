@@ -3,7 +3,7 @@ Tekton pipelines demo by building the image and pushing into the docker hub
 
 <h2>Replace below params with appropriate values</h2>
 
-$ > git clone vickyvikas7988/tekton-demo
+$ git clone vickyvikas7988/tekton-demo
 <br>
 
 <ul>
