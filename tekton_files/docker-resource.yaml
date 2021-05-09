@@ -6,4 +6,4 @@ spec:
   type: image
   params:
     - name: url
-      value: index.docker.io/murarisaranvikas/tekton
+      value: index.docker.io/docker-username/docker-repository
