@@ -1,7 +1,7 @@
 # tekton-demo - kubernetes - OCI (Oracle Cloud Infrastructure)
 Tekton pipelines demo - Building the image using Dockerfile present in GitHub and pushing into the Docker Hub
 
- Code is placed in GitHub ---> Kaniko Image is pulled into OCI ---> ---> Kaniko is used to Build Container Images In Kubernetes ---> Finally, pushing image to Docker Hub  
+ <h3> <b>Code is placed in GitHub ---> Kaniko Image is pulled into OCI ---> ---> Kaniko is used to Build Container Images In Kubernetes ---> Finally, pushing image to Docker Hub  </b> </h3>
  
 <h2>Replace below params with appropriate values</h2>
 
